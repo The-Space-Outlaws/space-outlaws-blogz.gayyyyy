@@ -7,7 +7,7 @@ category: Intro
 draft: false
 ---
 # The Space Outlaws proudly presents…
-<img src = "https://raw.githubusercontent.com/entraptadoeztech/space-outlaws-blogz.gayyyyy/refs/heads/main/src/content/posts/intro-assets/IMG_1296.jpeg">
+<img src = "https://raw.githubusercontent.com/entraptadoeztech/space-outlaws-blogz.gayyyyy/refs/heads/main/public/favicon/IMG_1420.jpeg">
 <p><b>SONNET!</b></p>
 
 ## What *is* SONNET?
