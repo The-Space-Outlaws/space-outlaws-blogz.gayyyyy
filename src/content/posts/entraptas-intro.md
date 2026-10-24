@@ -13,5 +13,6 @@ Hello! I’m entrapta, the leader of this group.
 ## Things about me
 - I love drawing little things
 - A pro at anime fanfic
-- I play the clarinet(below is an example of a song I played)
+- I play the clarinet
+
   
