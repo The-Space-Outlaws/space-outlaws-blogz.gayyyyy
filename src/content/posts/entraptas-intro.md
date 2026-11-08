@@ -15,4 +15,6 @@ Hello! I’m entrapta, the leader of this group.
 - A pro at anime fanfic
 - I play the clarinet
 
+My discord status XD
+<a href="https://discord.com/users/1314751216739291156"><img src="https://lanyard.cnrad.dev/api/1314751216739291156?showDisplayName=true&theme=dark&idleMessage=Come%20back%20later%20XD" /></a>
   
